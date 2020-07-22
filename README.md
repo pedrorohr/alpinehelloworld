@@ -1,0 +1,1 @@
+![alpine-hello-world](https://github.com/pedrorohr/alpinehelloworld/workflows/alpine-hello-world/badge.svg)
